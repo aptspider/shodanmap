@@ -677,7 +677,6 @@
 | **Android** | `os:"Android"` |
 | **iOS** | `os:"iOS"` |
 
-#  THE CLOUD NATIVE & SECRETS EDITION (Part 6)
 
 ##  Docker & Container Ecosystem
 > **Exposed container orchestration and registries.**
