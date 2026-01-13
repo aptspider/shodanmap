@@ -21,7 +21,7 @@
 
 | File / Leak | Shodan Query |
 | :--- | :--- |
-| **Exposed .env Files** | `http.html:".env" http.status:200` |
+| **Exposed .env Files** | `http.title:"Index of /" http.html:".env"` |
 | **Exposed .git Directory** | `http.title:"Index of /" http.html:".git"` |
 | **Exposed .vscode Directory** | `http.title:"Index of /" http.html:".vscode"` |
 | **Exposed Docker Config** | `http.title:"Index of /" http.html:"docker-compose.yml"` |
